@@ -7,7 +7,7 @@
     padding: 10px 0px;
 }
 
-.workExperience__item a {
+.workExperience__item li a {
     color: var(--font-main-color);
 }
 
