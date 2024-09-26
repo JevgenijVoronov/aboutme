@@ -7,6 +7,10 @@
     padding: 10px 0px;
 }
 
+.workExperience__item a {
+    color: var(--font-main-color);
+}
+
 .workExperience__item li:last-child {
     padding-bottom: 40px;
 }

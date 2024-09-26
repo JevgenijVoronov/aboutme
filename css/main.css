@@ -23,7 +23,6 @@
 .main__contactBtn,
 .main__contactInfo {
     padding: 15px 0px;
-    font-size: 1.5vw;
     display: inline-block;
     color: var(--font-hover-color);
     text-decoration: none;
